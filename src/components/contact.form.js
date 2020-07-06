@@ -9,7 +9,7 @@ export default () => (
             name="contact-content"
             className="flex-1 py-2 px-3 text-gray-700 focus:outline-none focus:shadow-outline"
             ></textarea>
-            <button class="btn ml-4">Enviar</button>
+            <button className="btn ml-4">Enviar</button>
         </div>
     </form>
 );
