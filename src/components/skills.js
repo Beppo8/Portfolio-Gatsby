@@ -3,6 +3,7 @@ import stack from '../imgs/stack.jpg';
 import python from '../imgs/django.jpg';
 import gatsby from '../imgs/gastby.png';
 
+
 export default () => (
   <div className="max-w-4xl mx-auto bottom-auto mt-12">
     <header className="text-center">
@@ -102,4 +103,6 @@ export default () => (
     </div>
 
   </div>
+
+  
 )
