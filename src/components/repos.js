@@ -27,7 +27,7 @@ export default () => {
             setReposCount(myRepos.length)
         
             sessionStorage.setItem("repos", JSON.stringify(myRepos));
-
+            myRepos = myRepos.slice(1,13);
             setRepos(myRepos)
         }
 

@@ -4,6 +4,10 @@
 
 @tailwind utilities;
 
+body{
+    @apply bg-gray-100;
+}
+
 .btn{
     @apply bg-purple-500 text-white font-bold rounded border-purple-700 py-2 px-4 border-b-4;
 }
@@ -20,8 +24,8 @@
 }
 
 .img{
-    width:300px;
-	height: 300px;
-	border-radius: 50%;
+    width:250px;
+	height: 250px;
+    border-radius: 50%;
 }
 
