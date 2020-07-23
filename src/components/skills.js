@@ -7,7 +7,7 @@ import gatsby from '../imgs/gastby.png';
 export default () => (
   <div className="max-w-4xl mx-auto bottom-auto mt-12">
     <header className="text-center">
-      <h2 className="text-3xl font-bold">My personal projects</h2>
+      <h2 className="text-3xl font-bold">My own projects</h2>
     </header>
 
     <div class="flex mt-16 mb-4">
@@ -81,7 +81,7 @@ export default () => (
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">Personal Portfolio</div>
             <p class="text-gray-700 text-base">
-              My personal website made wiht Gatsbyjs
+              My personal website made with Gatsbyjs
             </p>
           </div>
           <div class="px-6 py-4">
@@ -92,7 +92,7 @@ export default () => (
               #JAMStack
             </span>
             <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">
-              #Gaphgql
+              #Tailwind
             </span>
           </div>
             <div className="mt-4 mb-6 text-center">
