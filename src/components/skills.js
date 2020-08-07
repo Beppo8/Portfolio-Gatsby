@@ -36,12 +36,12 @@ export default () => (
             </span>
           </div>
             <div className="mt-4 mb-6 text-center">
-                <a href="https://github.com/Beppo8" className="btn" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
+                <a href="https://github.com/Beppo8/Stack-MEAN-Social" className="btn" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
             </div>
         </div>
       </div>
 
-      <div class="w-1/3 mx-24 h-12">
+      <div class="w-1/3 mx-24 h-16">
       <div class="max-w-sm rounded overflow-hidden shadow-lg">
           <img
             class="w-full"
@@ -66,12 +66,12 @@ export default () => (
             </span>
           </div>
             <div className="mt-4 mb-6 text-center">
-                <a href="https://github.com/Beppo8" className="btn" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
+                <a href="https://github.com/Beppo8/Django-ecommerce" className="btn" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
             </div>
         </div>
       </div>
 
-      <div class="w-1/3 h-12">
+      <div class="w-1/3 h-16">
       <div class="max-w-sm rounded overflow-hidden shadow-lg">
           <img
             class="w-full"
@@ -96,7 +96,7 @@ export default () => (
             </span>
           </div>
             <div className="mt-4 mb-6 text-center">
-                <a href="https://github.com/Beppo8" className="btn" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
+                <a href="https://github.com/Beppo8/Portfolio-Gatsby" className="btn" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
             </div>
         </div>
       </div>

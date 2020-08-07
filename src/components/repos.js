@@ -38,7 +38,6 @@ export default () => {
         <div className="max-w-4xl mx-auto mt-12">
             <header className="text-center">
                 <h2 className="text-3xl font-bold">My personal Github</h2>
-                <p>Colaboracion y contribucion</p>
             </header>
             <ul className="repos-list">
                 {
