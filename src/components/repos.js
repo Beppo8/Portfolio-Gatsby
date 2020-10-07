@@ -47,7 +47,7 @@ export default () => {
                 }
             </ul>
             <div className="mt-8 text-center">
-            <a href="https://github.com/Beppo8" className="btn" target="_blank" rel="noopener noreferrer">Ver mas en GitHub ({reposCount})</a>
+            <a href="https://github.com/Beppo8" className="btn" target="_blank" rel="noopener noreferrer">View more in GitHub ({reposCount})</a>
             </div>
         </div>
     )
